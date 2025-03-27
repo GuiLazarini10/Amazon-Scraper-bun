@@ -29,20 +29,15 @@ Este projeto é uma aplicação Full Stack que realiza scraping da Amazon para l
 ## ▶️ Como executar localmente
 
 ### 1. Clone o projeto
+git clone https://git@github.com:GuiLazarini10/Amazon-Scraper-bun.git
 
-```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
 2. Instale as dependências com Bun
-bash
-
 bun install
+
 3. Execute o servidor
-bash
-
 bun --hot src/index.tsx
-4. Acesse no navegador:
 
+4. Acesse no navegador:
 http://localhost:3000
 
 💡 Observações Técnicas
